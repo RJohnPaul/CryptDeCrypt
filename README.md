@@ -5,7 +5,7 @@
 
 <div align="center">
   <br>
-      <img src="https://github.com/RJohnPaul/qwickbase/blob/7b0f31ec9b8f3764ade25a63057e03cb33586966/Frame%206.png" alt="Project Banner">
+      <img src="https://github.com/RJohnPaul/CryptDeCrypt/blob/a047c7dc5028c1c24c4f73e301c189cdbe3e006a/Frame%207.png" alt="Project Banner">
   </br>
 </div>
 
