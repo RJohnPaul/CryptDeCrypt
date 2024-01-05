@@ -76,7 +76,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 <div align="center">
   <br>
-      <img src="https://github.com/RJohnPaul/CryptDeCrypt/blob/a047c7dc5028c1c24c4f73e301c189cdbe3e006a/Frame%207.png" alt="Project Banner">
+      <img src="https://github.com/RJohnPaul/CryptDeCrypt/blob/f06c792085a724a36a6acea932dc50ac80d87a17/Frame%208.png" alt="Project Banner">
   </br>
 </div>
 
