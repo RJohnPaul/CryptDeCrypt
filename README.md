@@ -3,6 +3,20 @@
 
 # CryptDeCrypt - Password Manager
 
+<div align="center">
+  <br>
+      <img src="https://github.com/RJohnPaul/qwickbase/blob/7b0f31ec9b8f3764ade25a63057e03cb33586966/Frame%206.png" alt="Project Banner">
+  </br>
+</div>
+
+<div align="center">
+  <br>
+      <img src="https://github.com/RJohnPaul/qwickbase/blob/fba5a8457f5bf6f4242fe0d47431f64758a37987/Frame-5.png" alt="Project Banner">
+  </br>
+</div>
+
+<br/>
+
 ## Description
 
 CryptDeCrypt is a secure password manager designed to encrypt and manage user passwords. The program utilizes encryption and hashing techniques to ensure the confidentiality and integrity of stored passwords.
