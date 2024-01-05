@@ -11,7 +11,7 @@
 
 <div align="center">
   <br>
-      <img src="https://github.com/RJohnPaul/qwickbase/blob/fba5a8457f5bf6f4242fe0d47431f64758a37987/Frame-5.png" alt="Project Banner">
+      <img src="https://github.com/RJohnPaul/CryptDeCrypt/blob/3848b5636b76ee1a6f3326550d99547d78f8ff1c/Frame-5(1).png" alt="Project Banner">
   </br>
 </div>
 
